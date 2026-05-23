@@ -15,7 +15,7 @@ Coding-Test
 ### Backup Tool
 
 - 백준허브
-- 참고 (Link)[https://gajicoding.tistory.com/38]
+- 참고 [Link](https://gajicoding.tistory.com/38)
 
 ### Programming Language
 1. Python
